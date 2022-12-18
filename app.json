@@ -2,7 +2,7 @@
   "name": "TrAppleDestek-Store",
   "description": "iOS uygulamalarını bilgisayar olmadan imzalamak ve yüklemek için kendi kendine barındırılan, platformlar arası bir hizmet.",
   "repository": "https://github.com/hoqk4baz/ipa-imzalama",
-  "logo": "https://github.com/hoqk4baz/ipa-imzalama/src/assets/favicon.png",
+  "logo": "https://raw.githubusercontent.com/hoqk4baz/ipa-imzalama/main/src/assets/favicon.png",
   "keywords": ["ios", "cross-platform", "signing", "ci", "apps", "ipa", "sideload"],
   "stack": "container",
   "image": "ipa-imzalama",
