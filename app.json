@@ -1,11 +1,11 @@
 {
-  "name": "SignTools",
-  "description": "A self-hosted, cross-platform service to sign and install iOS apps, all without a computer.",
-  "repository": "https://github.com/SignTools/SignTools",
-  "logo": "https://github.com/SignTools/SignTools/raw/master/img/logo.png",
+  "name": "TrAppleDestek-Store",
+  "description": "iOS uygulamalarını bilgisayar olmadan imzalamak ve yüklemek için kendi kendine barındırılan, platformlar arası bir hizmet.",
+  "repository": "https://github.com/hoqk4baz/ipa-imzalama",
+  "logo": "https://github.com/hoqk4baz/ipa-imzalama/src/assets/favicon.png",
   "keywords": ["ios", "cross-platform", "signing", "ci", "apps", "ipa", "sideload"],
   "stack": "container",
-  "image": "signtools/SignTools",
+  "image": "ipa-imzalama",
   "env": {
     "BUILDER_GITHUB_ENABLE": {
       "description": "A builder is required. Currently, only GitHub Actions is supported. Make sure you have one set up before continuing: https://github.com/SignTools/SignTools/blob/heroku/INSTALL-SIMPLE.md#2-builder",
